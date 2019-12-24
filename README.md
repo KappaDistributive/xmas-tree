@@ -1,5 +1,7 @@
 xmastree is a colored Christmas tree for your terminal, written in C.
 
+![](xmastree.gif)
+
 # Requirements
 gcc
 
